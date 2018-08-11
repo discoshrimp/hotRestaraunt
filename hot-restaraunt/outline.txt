@@ -1,0 +1,13 @@
+Create html, js, connection
+Restaurant app
+- Reservation system
+-   Current Reservation - five tables
+-   waiting list
+- Control Table
+-   Api for 5 tables
+-   api for waiting list
+-   clear tables
+-   Github repo
+- Home button
+- View Table
+- Make reservation
